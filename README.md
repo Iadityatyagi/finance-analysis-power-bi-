@@ -51,3 +51,5 @@ Developed an interactive Power BI dashboard to analyze customer transaction data
 * Excel
 
 ## 📸 Dashboard Preview
+
+![Dashboard 1] https://github.com/Iadityatyagi/finance-analysis-power-bi-/blob/5863bbd5de3c2a0e712d7ff2942ea29861a0144f/Screenshot%202026-06-24%20011033.png
