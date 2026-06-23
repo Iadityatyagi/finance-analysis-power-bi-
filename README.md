@@ -51,12 +51,3 @@ Developed an interactive Power BI dashboard to analyze customer transaction data
 * Excel
 
 ## 📸 Dashboard Preview
-
-(Add your dashboard screenshots here)
-
-```md
-<img src="images/dashboard1.png" width="1000">
-
-![Dashboard 2](Screenshot 2026-06-24 011033.png)
-```
-This format is professional, recruiter-friendly, and highlights both your data cleaning skills and Power BI dashboard development work.
